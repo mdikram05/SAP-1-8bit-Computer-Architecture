@@ -16,8 +16,7 @@ This project was developed as part of the EEE 4408 course.
 
 ## Files Included
 - Proteus simulation files
-- Project report
-- Circuit screenshots
+- Project reports
 
 ## Author
 MD Ikram Hossain
