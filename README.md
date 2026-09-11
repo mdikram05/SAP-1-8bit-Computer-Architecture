@@ -1,6 +1,6 @@
 # SAP-1 8-bit Computer Architecture
 
-This project was developed as part of the EEE 4408 course.
+This project was developed as part of the EEE 4308 course.
 
 ## Features
 - 8-bit architecture
@@ -19,5 +19,5 @@ This project was developed as part of the EEE 4408 course.
 - Project reports
 
 ## Author
-MD Ikram Hossain
+Ikram Hossain
 IUT, EEE'23
